@@ -1,5 +1,5 @@
 #!/bin/bash
-e=35
+f=35
 if [ $f -gt 20 ]
 then
 echo "f is grater"
